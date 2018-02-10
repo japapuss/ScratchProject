@@ -1,1 +1,2 @@
 this is an updated file after a merge
+And now, we add something else.
